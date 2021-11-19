@@ -1,0 +1,25 @@
+---
+move_files:
+ extensions:
+  - pdf
+  - png
+  - docx
+  - zip
+ from:
+  - /Users/user/Downloads
+  - /Users/user/Desktop
+ to:
+  - /Users/user/Downloads/Python
+ keywords:
+  - python
+  - pandas
+  - numpy
+---
+move_files:
+ extensions:
+  - pdf
+ from:
+  - /Users/jirinezval/Downloads
+  - /Users/jirinezval/Desktop
+ to:
+  - /Users/jirinezval/Downloads/Documents

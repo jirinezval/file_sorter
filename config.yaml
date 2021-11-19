@@ -1,0 +1,93 @@
+---
+move_files:
+ extensions:
+  - pdf
+  - png
+  - docx
+  - zip
+ from:
+  - /Users/jirinezval/Downloads
+  - /Users/jirinezval/Desktop
+ to:
+  - /Users/jirinezval/Downloads/Python
+ keywords:
+  - python
+  - pandas
+  - numpy
+---
+move_files:
+ extensions:
+  - pdf
+ from:
+  - /Users/jirinezval/Downloads
+  - /Users/jirinezval/Desktop
+ to:
+  - /Users/jirinezval/Downloads/Documents/Product
+ keywords:
+  - " product "
+  - scrum
+  - kanban
+  - " po "
+  - " pm "
+---
+move_files:
+ extensions:
+  - pdf
+  - docx
+  - pptx
+  - txt
+ from:
+  - /Users/jirinezval/Downloads
+  - /Users/jirinezval/Desktop
+ to:
+  - /Users/jirinezval/Downloads/Phonexia
+ keywords:
+  - petasch
+  - phx
+  - phonexia
+---
+move_files:
+ extensions:
+  - pdf
+  - docx
+  - pptx
+  - txt
+ from:
+  - /Users/jirinezval/Downloads
+  - /Users/jirinezval/Desktop
+ to:
+  - /Users/jirinezval/Downloads/Documents/Programming
+ keywords:
+  - unix
+  - terminal
+  - coding
+  - programming
+  - scripting
+  - developer
+  - "machine learning"
+  - algorithm
+  - " api "
+  - " ci "
+  - " cd "
+  - " cli "
+  - devops
+---
+move_files:
+ extensions:
+  - pdf
+  - docx
+ from:
+  - /Users/jirinezval/Downloads
+  - /Users/jirinezval/Desktop
+ to:
+  - /Users/jirinezval/Downloads/Documents
+---
+move_files:
+ extensions:
+  - png
+  - jpg
+ from:
+  - /Users/jirinezval/Downloads
+  - /Users/jirinezval/Desktop
+ to:
+  - /Users/jirinezval/Downloads/Images
